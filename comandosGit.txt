@@ -6,6 +6,8 @@
 
 - Adicionar commit: git commit arquivo
 
+- Adicionar commit sem editor de texto: git commit -m 'instruções'
+
 - Modificar arquivos: echo 'contéudo' > arquivo
 
 - Modificar aquivo com editor: nano arquivo
