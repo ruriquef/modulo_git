@@ -1,0 +1,12 @@
+-- Alguns comandos do git
+
+- Adicionar um repositório modificado: git add arquivo
+
+- Verificar status de um arquivo: git status
+
+- Adicionar commit: git commit arquivo
+
+- Modificar arquivos: echo 'contéudo' > arquivo
+
+- Modificar aquivo com editor: nano arquivo
+
