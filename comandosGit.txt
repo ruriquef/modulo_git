@@ -17,3 +17,5 @@
 - Listagem de dos dois últimos commits feitos: git log -n 2
 
 - Listagem dos commits mais organizados: git log --oneline
+
+- Restaurar um arquivo ao estado anterior: git restore
