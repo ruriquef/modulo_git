@@ -38,3 +38,7 @@
  git branch branch-c master
 
 - Deletar branch: git branch -D branch
+
+- Mesclar branchs: git merge branch/arquivo
+
+
