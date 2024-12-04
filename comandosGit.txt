@@ -40,5 +40,3 @@
 - Deletar branch: git branch -D branch
 
 - Mesclar branchs: git merge branch/arquivo
-
-

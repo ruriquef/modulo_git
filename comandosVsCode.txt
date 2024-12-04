@@ -1,0 +1,13 @@
+Comandos VsCode:
+
+- Abrir o vscode apartir do terminal na pasta atual: code .
+
+- criar novas branch: clicar no icone de branch no canto inferior esquerdo
+
+- Criar merges: F1 > git merge
+
+- Adicionar conteúdos com o git: clicar no icone do git e clicar no sinal de +
+
+- Fazer um commit pelo vscode: adicionar um texto e clicar em finalizar
+
+
