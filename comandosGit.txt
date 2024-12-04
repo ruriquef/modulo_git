@@ -12,3 +12,8 @@
 
 - Modificar aquivo com editor: nano arquivo
 
+- Listagem de commits feitos: git log
+
+- Listagem de dos dois últimos commits feitos: git log -n 2
+
+- Listagem dos commits mais organizados: git log --oneline
