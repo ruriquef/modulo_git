@@ -23,3 +23,18 @@
 - Desfazer uma alteração de arquivo: git checkout arquivo
 
 - Checar o conteúdo de um arquivo: cat arquivo/
+
+- Para navegar entre commits: git checkout hash(id do commit)
+
+- Reverter um commit: git revert head hash(id do commit a ser removido)
+
+- Alterar de uma branch para outra: git checkout branch
+
+- Criar uma branch: git branch nome
+
+- Trocar de branch ao mesmo tempo em que cria ela: git checkout -b branch-b
+
+- Criar uma branch erdando o conteúdo de uma branch específica:
+ git branch branch-c master
+
+- Deletar branch: git branch -D branch
